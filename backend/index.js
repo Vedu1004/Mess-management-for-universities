@@ -18,7 +18,7 @@ import { corsOptions } from './config/corsOptions.js'
 dotenv.config()
 
 // connect to a database
-import Connection from './Database/db_connect.js'
+import Connection from './database/db_connect.js'
 import UserPlan from './Models/UserPlan.js';
 import moment from 'moment/moment.js';
 import Inventory from './Models/Inventory.js';
