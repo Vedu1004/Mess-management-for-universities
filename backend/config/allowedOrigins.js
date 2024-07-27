@@ -1,3 +1,3 @@
-const allowedOrigins = ["http://localhost:3000"];
+const allowedOrigins = ["https://mess-management-frontend-xs92.onrender.com"];
 
 export default allowedOrigins;
